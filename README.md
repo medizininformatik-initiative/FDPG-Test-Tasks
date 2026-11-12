@@ -19,29 +19,29 @@ Zusätzliche, eigene Bedarfe an Entwicklungsskripten, die auch für andere Stand
 
 ## Standorte und Personenmonate (PM)
 
-| PM   | Standort        |
-|------|-----------------|
-| 40   | Aachen          |
-| 37   | Bonn            |
-| 36,3 | Essen           |
-| 30   | Greifswald      |
-| 30   | Jena            |
-| 30   | Münster         |
-| 30   | Würzburg        |
-| 25,8 | Tübingen        |
-| 25   | Halle           |
-| 21,9 | Gießen          |
-| 21,9 | Hamburg         |
-| 15   | Erlangen        |
-| 15   | Marburg         |
-| 15   | Leipzig         |
-| 13,85| Heidelberg      |
-| 13,8 | Augsburg        |
-| 13,8 | Charité         |
-| 13,8 | Freiburg        |
-| 13,8 | München (TUM)   |
-| 13,8 | Cottbus         |
-| 12   | Mannheim        |
-| 9    | Dresden         |
-| 3,8  | Frankfurt       |
-| 3,75 | Saarland        |
+| PM   | Standort        | Person|
+|------|-----------------||
+| 40   | Aachen          ||
+| 37   | Bonn            ||
+| 36,3 | Essen           ||
+| 30   | Greifswald      ||
+| 30   | Jena            ||
+| 30   | Münster         ||
+| 30   | Würzburg        ||
+| 25,8 | Tübingen        ||
+| 25   | Halle           ||
+| 21,9 | Gießen          ||
+| 21,9 | Hamburg         ||
+| 15   | Erlangen        ||
+| 15   | Marburg         ||
+| 15   | Leipzig         ||
+| 13,85| Heidelberg      ||
+| 13,8 | Augsburg        ||
+| 13,8 | Charité         ||
+| 13,8 | Freiburg        ||
+| 13,8 | München (TUM)   ||
+| 13,8 | Cottbus         ||
+| 12   | Mannheim        ||
+| 9    | Dresden         ||
+| 3,8  | Frankfurt       ||
+| 3,75 | Saarland        ||
