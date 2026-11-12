@@ -5,6 +5,7 @@ Zur besseren Koordination und Nachverfolgung von Test- und Entwicklungsaufgaben
 ## Zusammenarbeit
 
 - Standorte weisen sich Aufgaben selbst zu.
+- Das Ergebniss der Testung bitte als Kommentar (gegebenenfalls mit Verweis auf daraus entstandene Issues) im Issue direkt dokumentieren
 - Der Aufwand (in Stunden) bitte stets als Kommentar im jeweiligen Issue hinterlegen.
 - Bei Rückfragen bitte **@bkabaoglu** oder **@kleinertp** markieren.
 
