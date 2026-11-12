@@ -20,7 +20,7 @@ Zusätzliche, eigene Bedarfe an Entwicklungsskripten, die auch für andere Stand
 ## Standorte und Personenmonate (PM)
 
 | PM   | Standort        | Person|
-|------|-----------------||
+|------|-----------------|----|
 | 40   | Aachen          ||
 | 37   | Bonn            ||
 | 36,3 | Essen           ||
