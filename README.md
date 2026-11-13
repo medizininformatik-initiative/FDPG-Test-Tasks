@@ -29,7 +29,7 @@ Zusätzliche, eigene Bedarfe an Entwicklungsskripten, die auch für andere Stand
 | 30   | Jena            ||
 | 30   | Münster         ||
 | 30   | Würzburg        ||
-| 25,8 | Tübingen        ||
+| 25,8 | Tübingen        | Stephanie Biergans <stephanie.biergans@uni-tuebingen.de> |
 | 25   | Halle           ||
 | 21,9 | Gießen          ||
 | 21,9 | Hamburg         ||
