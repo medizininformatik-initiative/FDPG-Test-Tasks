@@ -39,7 +39,7 @@ Zusätzliche, eigene Bedarfe an Entwicklungsskripten, die auch für andere Stand
 | 13,85| Heidelberg      ||
 | 13,8 | Augsburg        ||
 | 13,8 | Charité         ||
-| 13,8 | Freiburg        ||
+| 13,8 | Freiburg        | Thanh Nam Bach <thanh.nam.bach@uniklinik-freiburg.de> |
 | 13,8 | München (TUM)   ||
 | 13,8 | Cottbus         ||
 | 12   | Mannheim        ||
