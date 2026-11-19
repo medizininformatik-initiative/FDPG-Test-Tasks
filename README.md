@@ -34,7 +34,7 @@ Zusätzliche, eigene Bedarfe an Entwicklungsskripten, die auch für andere Stand
 | 21,9 | Gießen          ||
 | 21,9 | Hamburg         ||
 | 15   | Erlangen        | Marvin Kampf <marvin.kampf@uk-erlangen.de> |
-| 15   | Marburg         ||
+| 15   | Marburg         | Sebastian Stöcker <sebastian.stoecker@uni-marburg.de> |
 | 15   | Leipzig         ||
 | 13,85| Heidelberg      ||
 | 13,8 | Augsburg        ||
