@@ -1,13 +1,27 @@
 # FDPG-Test-Tasks
 Zur besseren Koordination und Nachverfolgung von Test- und Entwicklungsaufgaben
 
-
 ## Zusammenarbeit
 
 - Standorte weisen sich Aufgaben selbst zu.
 - Das Ergebniss der Testung bitte als Kommentar (gegebenenfalls mit Verweis auf daraus entstandene Issues) im Issue direkt dokumentieren
 - Der Aufwand (in Stunden) bitte stets als Kommentar im jeweiligen Issue hinterlegen.
 - Bei Rückfragen bitte **@bkabaoglu** oder **@kleinertp** markieren.
+
+## Projektdurchführung (Pilot)
+
+Wir testen, ob GitHub die Confluence-Seiten für die Projektdurchführung ersetzen kann. Pilotprojekt ist **VERT-CARE**.
+
+1. **Anleitung lesen:** [DUP-VERT-CARE/README.md](DUP-VERT-CARE/README.md) enthält alle Schritte, Befehle und Fristen.
+2. **Status-Issue anlegen:** [Neues Status-Issue](../../issues/new?template=vert-care-status.yml), einmal pro Standort.
+3. **Schritte abhaken:** Erledigte Schritte direkt im eigenen Issue anklicken.
+
+| Projekt | Anleitung | Status aller Standorte | Frist Datenausleitung an DMSt |
+|---|---|---|---|
+| VERT-CARE | [README](DUP-VERT-CARE/README.md) | [Status](../../issues?q=milestone%3A%22VERT-CARE%22) | 22.01.2027 |
+
+> [!NOTE]
+> Dieses Repository ist öffentlich. Bitte keine E-Mail-Adressen, Patientendaten oder Ergebnisse in Issues oder Kommentare schreiben.
 
 ## Skripte
 
