@@ -1,0 +1,38 @@
+name: "VERT-CARE – Status Standort"
+description: Status der Durchführung von VERT-CARE an eurem Standort (Pilot)
+title: "VERT-CARE – Standort: "
+labels: ["status"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bitte **ein Issue pro Standort** anlegen und den Standortnamen im Titel ergänzen.
+        Erledigte Schritte später direkt im Issue abhaken. Probleme bitte als Kommentar festhalten.
+        Anleitung: https://github.com/medizininformatik-initiative/FDPG-Test-Tasks/blob/main/DUP-VERT-CARE/README.md
+  - type: input
+    id: standort
+    attributes:
+      label: Standort
+    validations:
+      required: true
+  - type: input
+    id: ansprechperson
+    attributes:
+      label: Ansprechperson (Name)
+      description: Bitte keine E-Mail-Adressen eintragen, das Repository ist öffentlich. Wir erreichen euch über eure GitHub-Benachrichtigungen.
+    validations:
+      required: true
+  - type: checkboxes
+    id: schritte
+    attributes:
+      label: Schritte
+      description: Beim Anlegen nichts ankreuzen. Die Kästchen werden später im Issue abgehakt.
+      options:
+        - label: "(4.2) Datenausleitung mit TORCH erfolgreich (NDJSON in /import abgelegt)"
+        - label: "(4.1) Pseudonymisierung erfolgreich (Geburtsdatum auf Jahr und Monat, PLZ auf 2 Stellen vergröbert)"
+        - label: "(4.2) CSV-Generierung / Flattening erfolgreich (/csv Dateien vorhanden)"
+        - label: "(4.3) Consent-Validierung erfolgreich"
+        - label: "(4.4) Kohorte bereinigt (*_include.csv in /filter_by_crtdl vorhanden)"
+        - label: "(4.5) Altersfilter erfolgreich (*_include_reduced.csv in /reduce_by_age vorhanden)"
+        - label: "(4.5) Alter berechnet (…_include_reduced_AGE.csv vorhanden)"
+        - label: "(4.6) Datenausleitung an die DMSt"
