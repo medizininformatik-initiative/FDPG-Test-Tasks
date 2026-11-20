@@ -28,7 +28,7 @@ Projekt-CRTDL: `vert-care_2026-10-30_v05.json` (in [vert-care_2026-10-30.zip](ve
 
 ### (4.1) DIMP konfigurieren
 
-Für die Pseudonymisierung muss das Geburtsdatum auf Jahr und Monat und die PLZ auf die ersten beiden Stellen vergröbert werden. Der `fhir-pseudonymizer` übernimmt dies über eine entsprechende Konfiguration.
+Für die Pseudonymisierung muss das Geburtsdatum auf Jahr und Monat vergröbert werden. Der `fhir-pseudonymizer` übernimmt dies über eine entsprechende Konfiguration.
 
 - Konfigurationsdatei: `dimp_dup_base.yaml` (im ZIP)
 - Anleitung: [Using and Customizing the DUP YAML](https://medizininformatik-initiative.github.io/dataportal/data-node/DIMP.html#using-and-customizing-the-dup-yaml)
